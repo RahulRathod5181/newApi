@@ -1,5 +1,5 @@
 {
-    "data":[
+    "boys":[
       {
         "id": "1",
         "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12704810a.webp",
@@ -599,523 +599,338 @@
         "price": 522
       }
     ],
-
-    "Footwear": [
-        {
-          "id": 1,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11882234a.webp",
-          "title": "Pine Kids Lace Up Party Wear Shoes- Black",
-          "d-price": 923.23,
-          "original pricer2": 1199,
-          "age": "8 - 9Y"
-        },
-        {
-          "id": 2,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12595725a.webp",
-          "title": "Skechers Heart Lights Rainbow Lux LED Shoes With Velcro Closure -...",
-          "d-price": 3419.1,
-          "original pricer2": 3799,
-          "age": "4 - 5Y"
-        },
-        {
-          "id": 3,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927177a.webp",
-          "title": "KATS Wings Printed Laced Up Sneakers- Grey",
-          "d-price": 643.08,
-          "original pricer2": 699,
-          "age": "3 - 3.5Y"
-        },
-        {
-          "id": 4,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10273823a.webp",
-          "title": "Yellow Bee Dinosaur Applique Clogs - Yellow",
-          "d-price": 559.3,
-          "original pricer2": 799,
-          "age": "12 - 18M"
-        },
-        {
-          "id": 5,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927172a.webp",
-          "title": "KATS Wings Printed Laced Up Sneakers - Blue",
-          "d-price": 643.08,
-          "original pricer2": 699,
-          "age": "3 - 3.5Y"
-        },
-        {
-          "id": 6,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374486a.webp",
-          "title": "Skechers Nitro Sprint Karvo Velcro Closure Casual Shoes - Navy Blue ...",
-          "d-price": 1799.1,
-          "original pricer2": 1999,
-          "age": "3 - 3.5Y"
-        },
-        {
-          "id": 7,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12642255a.webp",
-          "title": "Cute Walk by Babyhug Flip Flops Teddy Print - Blue",
-          "d-price": 259.91,
-          "original pricer2": 329,
-          "age": "4 - 4.5Y"
-        },
-        {
-          "id": 8,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11244747a.webp",
-          "title": "Cute Walk by Babyhug Velcro Closure Sport Shoes - Black",
-          "d-price": 1077.23,
-          "original pricer2": 1399,
-          "age": "4 - 4.5Y"
-        },
-        {
-          "id": 9,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12978927a.webp",
-          "title": "D'chica Glitter Embellished Side Bow Applique Ballerinas - Silver",
-          "d-price": 995.8,
-          "original pricer2": 1915,
-          "age": "12 - 13Y"
-        },
-        {
-          "id": 10,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374443a.webp",
-          "title": "Skechers Bounder Gorven Casual Shoes with Velcro Closure - Black",
-          "d-price": 2519.1,
-          "original pricer2": 2799,
-          "age": "8 - 9Y"
-        },
-        {
-          "id": 11,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11020478a.webp",
-          "title": "Babyoye Casual Shoes with Velcro Closure Stripes Pattern - White",
-          "d-price": 947.21,
-          "original pricer2": 1199,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 12,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11846366a.webp",
-          "title": "Pine Kids Winter Boots With Lace Closure - Black",
-          "d-price": 1215.24,
-          "original pricer2": 1599,
-          "age": "10 - 11Y"
-        },
-        {
-          "id": 13,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11244750a.webp",
-          "title": "Cute Walk by Babyhug Velcro Closure Sport Shoes - Red",
-          "d-price": 1077.23,
-          "original pricer2": 1399,
-          "age": "3 - 3.5Y"
-        },
-        {
-          "id": 14,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10273649a.webp",
-          "title": "Yellow Bee Unicorn Clogs - Light Pink",
-          "d-price": 486.75,
-          "original pricer2": 649,
-          "age": "18 - 24M"
-        },
-        {
-          "id": 15,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12922595a.webp",
-          "title": "Yellow Bee Unicorn Patch Detailed Slides - Pink",
-          "d-price": 505.08,
-          "original pricer2": 549,
-          "age": "7 - 8Y"
-        },
-        {
-          "id": 16,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12819912a.webp",
-          "title": "KIDLINGSS Polka Dots Printed Bow Applique Ankle Length Boots - Brown",
-          "d-price": 1471.08,
-          "original pricer2": 1599,
-          "age": "3.5 - 4Y"
-        },
-        {
-          "id": 17,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11315987a.webp",
-          "title": "FEETWELL SHOES Color Blocked Shoes - Multi Color",
-          "d-price": 750,
-          "original pricer2": 1500,
-          "age": "5.5 - 6Y"
-        },
-        {
-          "id": 18,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374480a.webp",
-          "title": "Skechers Nitro Sprint Karvo Velcro Closure Casual Shoes - Blue",
-          "d-price": 1799.1,
-          "original pricer2": 1999,
-          "age": "2.5 - 3Y"
-        },
-        {
-          "id": 19,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11552454a.webp",
-          "title": "Babyoye Sneakers with Velcro Closure - Orange",
-          "d-price": 1074.15,
-          "original pricer2": 1395,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 20,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10057472a.webp",
-          "title": "Babyoye Fur Winter Shoes Solid Colour  - Navy",
-          "d-price": 1000.23,
-          "original pricer2": 1299,
-          "age": "2.5 - 3Y"
-        },
-        {
-          "id": 21,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11528714a.webp",
-          "title": "Babyoye Flip Flops With Velcro Closure Penguin Print & Patch -...",
-          "d-price": 315.21,
-          "original pricer2": 399,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 22,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11718433a.webp",
-          "title": "FEETWELL SHOES Wave Self Design LED Party Wear Shoes - Dark Grey",
-          "d-price": 750,
-          "original pricer2": 1500,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 23,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11480183a.webp",
-          "title": "FEETWELL SHOES Color Blocked Shoes - Orange",
-          "d-price": 750,
-          "original pricer2": 1500,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 24,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11846360a.webp",
-          "title": "Pine Kids Winter Boots With Lace Closure - Brown",
-          "d-price": 1199.25,
-          "original pricer2": 1599,
-          "age": "8 - 9Y"
-        },
-        {
-          "id": 25,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11938588a.webp",
-          "title": "Babyoye Party Wear Sandals With Bow Applique - Black",
-          "d-price": 818.22,
-          "original pricer2": 1049,
-          "age": "2.5 - 3Y"
-        },
-        {
-          "id": 26,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10057478a.webp",
-          "title": "Babyoye Fur Winter Shoes Solid Colour  - Brown",
-          "d-price": 1000.23,
-          "original pricer2": 1299,
-          "age": "3.5 - 4Y"
-        },
-        {
-          "id": 27,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12820041a.webp",
-          "title": "KIDLINGSS Colour Block Side Zipped Boots - White",
-          "d-price": 1471.08,
-          "original pricer2": 1599,
-          "age": "18 - 24M"
-        },
-        {
-          "id": 28,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11315976a.webp",
-          "title": "FEETWELL SHOES Color Blocked Shoes - Blue",
-          "d-price": 750,
-          "original pricer2": 1500,
-          "age": "6 - 6.5Y"
-        },
-        {
-          "id": 29,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12922588a.webp",
-          "title": "Yellow Bee Unicorn Patch Detailed Slides - Blue",
-          "d-price": 505.08,
-          "original pricer2": 549,
-          "age": "6 - 7Y"
-        },
-        {
-          "id": 30,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11552431a.webp",
-          "title": "Babyoye Sneakers with Velcro Closure Glitter Detail - Pink",
-          "d-price": 1074.15,
-          "original pricer2": 1395,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 31,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12820140a.webp",
-          "title": "KIDLINGSS Butterfly Applique & Doll With Wings Embellished Colour...",
-          "d-price": 1379.08,
-          "original pricer2": 1499,
-          "age": "18 - 24M"
-        },
-        {
-          "id": 32,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/8911400a.webp",
-          "title": "Tiber Taber Peshawari Sandals - Brown",
-          "d-price": 1187.5,
-          "original pricer2": 1250,
-          "age": "5.5 - 6.5Y"
-        },
-        {
-          "id": 33,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927140a.webp",
-          "title": "KATS Fur Applique Buckle Casual Boots - Navy  Blue",
-          "d-price": 643.08,
-          "original pricer2": 699,
-          "age": "4.5 - 5Y"
-        },
-        {
-          "id": 34,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12613567a.webp",
-          "title": "Red Tape Lace Detailed Velcro Closure Mesh Shoes - Green & Blue",
-          "d-price": 1409.7,
-          "original pricer2": 4699,
-          "age": "7 - 8Y"
-        },
-        {
-          "id": 35,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12055954a.webp",
-          "title": "D'chica Quilted Faux Fur Detail Winter Boots - Black",
-          "d-price": 666.04,
-          "original pricer2": 1199,
-          "age": "5 - 5.5Y"
-        },
-        {
-          "id": 36,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12194761a.webp",
-          "title": "Babyoye Winter Boots With Zipper Closure - Brown",
-          "d-price": 961.73,
-          "original pricer2": 1249,
-          "age": "2 - 2.5Y"
-        },
-        {
-          "id": 37,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11710776a.webp",
-          "title": "Cute Walk by Babyhug Sports Shoes With Lace Tie Up - Navy Blue",
-          "d-price": 923.93,
-          "original pricer2": 1379,
-          "age": "4 - 4.5Y"
-        }
-    ],
     "babygear":[
-        {
-          "id": 1,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/725276a.webp",
-          "d-price": 8986.9,
-          "price": 14495,
-          "title": "Babyhug Twinster Easy Foldable Twin Stroller with..."
-        },
-        {
-          "id": 2,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1866111a.webp",
-          "d-price": 5114.07,
-          "price": 5499,
-          "title": "R for Rabbit Lollipop Lite Stroller Cum Pram - Grey..."
-        },
-        {
-          "id": 3,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773879a.webp",
-          "d-price": 3836.8,
-          "price": 5995,
-          "title": "Babyhug Comfy Ride Stroller With Reversible Handle -..."
-        },
-        {
-          "id": 4,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9475351a.webp",
-          "d-price": 5594.4,
-          "price": 6993,
-          "title": "R For Rabbit Cutie Pie Stroller - Grey"
-        },
-        {
-          "id": 5,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3719655a.webp",
-          "d-price": 249.9,
-          "price": 595,
-          "title": "Stroller Hook Pack of 2 - Black"
-        },
-        {
-          "id": 6,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773873a.webp",
-          "d-price": 4476.8,
-          "price": 6995,
-          "title": "Babyhug Symphony Stroller With Reverisble Handle &..."
-        },
-        {
-          "id": 7,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/10523633a.webp",
-          "d-price": 11726.55,
-          "price": 16995,
-          "title": "Bonfino Triton Baby Stroller with Adjustable Canopy..."
-        },
-        {
-          "id": 8,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/12709379a.webp",
-          "d-price": 4439.2,
-          "price": 10999,
-          "title": "StarAndDaisy  Stroller Lightweight with Cup Holder -..."
-        },
-        {
-          "id": 9,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/700003a.webp",
-          "d-price": 5995,
-          "price": "",
-          "title": "Babyhug Cocoon Stroller With Mosquito Net & Reversible..."
-        },
-        {
-          "id": 10,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3719659a.webp",
-          "d-price": 598.5,
-          "price": 1425,
-          "title": "Stroller Organizer - Grey"
-        },
-        {
-          "id": 11,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/11211725a.webp",
-          "d-price": 12648.66,
-          "price": 14999,
-          "title": "Teknum Travel Lite Stroller - Grey"
-        },
-        {
-          "id": 12,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1730142a.webp",
-          "d-price": 10995,
-          "price": "",
-          "title": "Babyhug Easy Travel Cabin Stroller With Z-Fold &..."
-        },
-        {
-          "id": 13,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/699996a.webp",
-          "d-price": 5995,
-          "price": "",
-          "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &..."
-        },
-        {
-          "id": 14,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2973770a.webp",
-          "d-price": 5497.25,
-          "price": 9995,
-          "title": "Babyhug Rock Star Stroller Cum Rocker With 5 Point..."
-        },
-        {
-          "id": 15,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/699997a.webp",
-          "d-price": 3836.8,
-          "price": 5995,
-          "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &..."
-        },
-        {
-          "id": 16,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1730141a.webp",
-          "d-price": 7036.8,
-          "price": 10995,
-          "title": "Babyhug Easy Travel Cabin Stroller With Z-Fold &..."
-        },
-        {
-          "id": 17,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/12709376a.webp",
-          "d-price": 4439.2,
-          "price": 10999,
-          "title": "StarAndDaisy  Stroller Lightweight with Cup Holder -..."
-        },
-        {
-          "id": 18,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3206347a.webp",
-          "d-price": 7871.85,
-          "price": 12495,
-          "title": "Babyhug Deuce Twin Stroller - Green"
-        },
-        {
-          "id": 19,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773876a.webp",
-          "d-price": 3896.75,
-          "price": 5995,
-          "title": "Babyhug Comfy Ride Stroller With Reversible Handle -..."
-        },
-        {
-          "id": 20,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2310572a.webp",
-          "d-price": 8468.46,
-          "price": 10998,
-          "title": "R for Rabbit Ginny And Johnny Twin Stroller The..."
-        },
-        {
-          "id": 21,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1866112a.webp",
-          "d-price": 5574.42,
-          "price": 5994,
-          "title": "R for Rabbit Lollipop Lite Stroller Cum Pram - Blue..."
-        },
-        {
-          "id": 22,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8540778a.webp",
-          "d-price": 10396.8,
-          "price": 12996,
-          "title": "R for Rabbit Street Smart Auto Fold Stroller - Black"
-        },
-        {
-          "id": 23,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3206348a.webp",
-          "d-price": 8121.75,
-          "price": 12495,
-          "title": "Babyhug Deuce Twin Stroller - Red"
-        },
-        {
-          "id": 24,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1853982a.webp",
-          "d-price": 20159.28,
-          "price": 27999,
-          "title": "Bentley 6-in-1 Baby Stroller - Dark  Red"
-        },
-        {
-          "id": 25,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1033686a.webp",
-          "d-price": 7356.8,
-          "price": 11495,
-          "title": "Babyhug Wander Buddy Stroller With Rear Parent Utility..."
-        },
-        {
-          "id": 26,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3080059a.webp",
-          "d-price": 9276.8,
-          "price": 14495,
-          "title": "Babyhug Majestic Stroller Cum Carry Cot With Canopy -..."
-        },
-        {
-          "id": 27,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/699998a.webp",
-          "d-price": 5995,
-          "price": "",
-          "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &..."
-        },
-        {
-          "id": 28,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1694967a.webp",
-          "d-price": 3766.75,
-          "price": 5795,
-          "title": "Babyhug Lil Monsta Stroller With Adjustable Leg Rest -..."
-        },
-        {
-          "id": 29,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/827162a.webp",
-          "d-price": 3836.8,
-          "price": 5995,
-          "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &..."
-        },
-        {
-          "id": 30,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8146417a.webp",
-          "d-price": 7156.35,
-          "price": 7695,
-          "title": "R for Rabbit Sugar Pop Baby Stroller & Pram - Green..."
-        },
-        {
-          "id": 31,
-          "image": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2127270a.webp",
-          "d-price": 4795.2,
-          "price": 5994,
-          "title": "R for Rabbit Lollipop Lite Pram Cum Stroller - Red"
-        }
+      {
+        "id": 1,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/725276a.webp",
+        "price": 8986.9,
+        "title": "Babyhug Twinster Easy Foldable Twin Stroller with...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 2,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1866111a.webp",
+        "price": 5114.07,
+        "title": "R for Rabbit Lollipop Lite Stroller Cum Pram - Grey...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 3,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773879a.webp",
+        "price": 3836.8,
+        "title": "Babyhug Comfy Ride Stroller With Reversible Handle -...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 4,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/9475351a.webp",
+        "price": 5594.4,
+        "title": "R For Rabbit Cutie Pie Stroller - Grey",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 5,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3719655a.webp",
+        "price": 249.9,
+        "title": "Stroller Hook Pack of 2 - Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 6,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773873a.webp",
+        "price": 4476.8,
+        "title": "Babyhug Symphony Stroller With Reverisble Handle &...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 7,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/10523633a.webp",
+        "price": 11726.55,
+        "title": "Bonfino Triton Baby Stroller with Adjustable Canopy...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 8,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/12709379a.webp",
+        "price": 4439.2,
+        "title": "StarAndDaisy  Stroller Lightweight with Cup Holder -...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 9,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/700003a.webp",
+        "price": 5995,
+        "title": "Babyhug Cocoon Stroller With Mosquito Net & Reversible...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 10,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3719659a.webp",
+        "price": 598.5,
+        "title": "Stroller Organizer - Grey",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 11,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/11211725a.webp",
+        "price": 12648.66,
+        "title": "Teknum Travel Lite Stroller - Grey",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 12,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1730142a.webp",
+        "price": 10995,
+        "title": "Babyhug Easy Travel Cabin Stroller With Z-Fold &...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 13,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/699996a.webp",
+        "price": 5995,
+        "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 14,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2973770a.webp",
+        "price": 5497.25,
+        "title": "Babyhug Rock Star Stroller Cum Rocker With 5 Point...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 15,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/699997a.webp",
+        "price": 3836.8,
+        "title": "Babyhug Cosy Cosmo Stroller With Reversible Handle &...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 16,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1730141a.webp",
+        "price": 7036.8,
+        "title": "Babyhug Easy Travel Cabin Stroller With Z-Fold &...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 17,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/12709376a.webp",
+        "price": 4439.2,
+        "title": "StarAndDaisy  Stroller Lightweight with Cup Holder -...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 18,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3206347a.webp",
+        "price": 7871.85,
+        "title": "Babyhug Deuce Twin Stroller - Green",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 19,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1773876a.webp",
+        "price": 3896.75,
+        "title": "Babyhug Comfy Ride Stroller With Reversible Handle -...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 20,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/2310572a.webp",
+        "price": 8468.46,
+        "title": "R for Rabbit Ginny And Johnny Twin Stroller The...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 21,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1866112a.webp",
+        "price": 5574.42,
+        "title": "R for Rabbit Lollipop Lite Stroller Cum Pram - Blue...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 22,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/8540778a.webp",
+        "price": 10396.8,
+        "title": "R for Rabbit Street Smart Auto Fold Stroller - Black",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 23,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/3206348a.webp",
+        "price": 8121.75,
+        "title": "Babyhug Deuce Twin Stroller - Red",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 24,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1853982a.webp",
+        "price": 20159.28,
+        "title": "Bentley 6-in-1 Baby Stroller - Dark  Red",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      },
+      {
+        "id": 25,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/219x265/1033686a.webp",
+        "price": 7356.8,
+        "title": "Babyhug Wander Buddy Stroller With Rear Parent Utility...",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+      }
+    ],
+    "footwear":[
+      {
+        "id": 1,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11882234a.webp",
+        "title": "Pine Kids Lace Up Party Wear Shoes- Black",
+        "price": 1199,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 2,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12595725a.webp",
+        "title": "Skechers Heart Lights Rainbow Lux LED Shoes With Velcro Closure -...",
+        "price": 3799,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 3,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927177a.webp",
+        "title": "KATS Wings Printed Laced Up Sneakers- Grey",
+        "price": 699,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 4,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10273823a.webp",
+        "title": "Yellow Bee Dinosaur Applique Clogs - Yellow",
+        "price": 799,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 5,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12927172a.webp",
+        "title": "KATS Wings Printed Laced Up Sneakers - Blue",
+        "price": 699,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 6,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374486a.webp",
+        "title": "Skechers Nitro Sprint Karvo Velcro Closure Casual Shoes - Navy Blue ...",
+        "price": 1999,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 7,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12642255a.webp",
+        "title": "Cute Walk by Babyhug Flip Flops Teddy Print - Blue",
+        "price": 329,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 8,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11244747a.webp",
+        "title": "Cute Walk by Babyhug Velcro Closure Sport Shoes - Black",
+        "price": 1399,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 9,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12978927a.webp",
+        "title": "D'chica Glitter Embellished Side Bow Applique Ballerinas - Silver",
+        "price": 1915,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 10,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374443a.webp",
+        "title": "Skechers Bounder Gorven Casual Shoes with Velcro Closure - Black",
+        "price": 2799,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 11,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11020478a.webp",
+        "title": "Babyoye Casual Shoes with Velcro Closure Stripes Pattern - White",
+        "price": 1199,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 12,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11846366a.webp",
+        "title": "Pine Kids Winter Boots With Lace Closure - Black",
+        "price": 1599,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 13,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11244750a.webp",
+        "title": "Cute Walk by Babyhug Velcro Closure Sport Shoes - Red",
+        "price": 1399,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 14,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10273649a.webp",
+        "title": "Yellow Bee Unicorn Clogs - Light Pink",
+        "price": 649,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 15,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12922595a.webp",
+        "title": "Yellow Bee Unicorn Patch Detailed Slides - Pink",
+        "price": 549,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 16,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12819912a.webp",
+        "title": "KIDLINGSS Polka Dots Printed Bow Applique Ankle Length Boots - Brown",
+        "price": 1599,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 17,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11315987a.webp",
+        "title": "FEETWELL SHOES Color Blocked Shoes - Multi Color",
+        "price": 1500,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 18,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/12374480a.webp",
+        "title": "Skechers Nitro Sprint Karvo Velcro Closure Casual Shoes - Blue",
+        "price": 1999,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 19,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11552454a.webp",
+        "title": "Babyoye Sneakers with Velcro Closure - Orange",
+        "price": 1395,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 20,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/10057472a.webp",
+        "title": "Babyoye Fur Winter Shoes Solid Colour  - Navy",
+        "price": 1299,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 21,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11528714a.webp",
+        "title": "Babyoye Flip Flops With Velcro Closure Penguin Print & Patch -...",
+        "price": 399,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      },
+      {
+        "id": 22,
+        "lmage": "https://cdn.fcglcdn.com/brainbees/images/products/300x364/11718433a.webp",
+        "title": "FEETWELL SHOES Wave Self Design LED Party Wear Shoes - Dark Grey",
+        "price": 1500,
+        "description": "Cute Walk by Babyhug Velcro Closure Sport Shoes"
+      }
     ]
   }
   
